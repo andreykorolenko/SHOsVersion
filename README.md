@@ -18,6 +18,11 @@ it, simply add the following line to your Podfile:
 
     pod "SHOsVersion"
 
+## Usage
+
+It's pretty easy.
+Just call [SHOsVersion getVersion]
+
 ## Author
 
 shiskey, darkmail@bk.ru
