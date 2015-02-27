@@ -21,7 +21,9 @@ it, simply add the following line to your Podfile:
 ## Usage
 
 It's pretty easy.
-Just call [SHOsVersion getVersion]
+Just call 
+    
+    [SHOsVersion getVersion]
 
 ## Author
 
